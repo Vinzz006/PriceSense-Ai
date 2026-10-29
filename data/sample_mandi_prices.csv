@@ -1,0 +1,443 @@
+date,state,district,market,commodity,variety,grade,min_price,max_price,modal_price
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2396.51,2469.12,2432.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2415.15,2461.15,2436.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2399.44,2485.02,2440.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2414.79,2490.81,2444.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2406.35,2473.7,2448.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2397.37,2464.56,2434.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2412.54,2481.57,2438.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2393.04,2468.97,2442.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2423.49,2484.11,2446.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2408.13,2478.29,2450.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2396.44,2472.54,2437.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2419.55,2465.14,2441.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2419.39,2494.83,2445.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2413.38,2486.36,2449.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2410.96,2489.26,2453.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2390.61,2482.24,2438.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.91,2472.72,2442.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2397.41,2476.31,2446.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2404.05,2494.91,2450.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2417.86,2501.67,2454.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2417.09,2463.09,2440.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2402.95,2490.71,2444.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2423.21,2476.27,2448.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2411.83,2476.93,2452.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2414.96,2490.63,2456.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2401.58,2477.65,2442.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2424.7,2472.72,2446.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2412.74,2473.61,2450.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2419.0,2478.14,2454.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2436.42,2483.35,2458.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2410.73,2490.33,2444.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2399.52,2482.35,2448.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2418.17,2491.12,2452.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2426.26,2479.53,2456.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2438.47,2499.13,2460.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2398.63,2483.11,2443.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2407.45,2479.74,2447.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2411.3,2477.27,2451.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2415.2,2490.89,2455.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2416.54,2481.81,2459.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2401.46,2485.62,2445.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2408.15,2483.91,2449.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2403.74,2479.11,2453.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2428.03,2483.83,2457.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2439.55,2508.12,2461.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2423.6,2484.22,2446.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2411.07,2481.34,2450.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2433.6,2499.27,2454.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2426.45,2494.55,2458.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2404.68,2486.26,2446.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.16,2480.27,2450.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2421.63,2481.19,2454.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2408.93,2486.66,2458.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2437.58,2485.88,2462.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2400.68,2479.54,2449.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2410.99,2500.42,2453.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2415.97,2488.66,2457.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2412.73,2503.09,2461.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2420.85,2492.71,2448.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.18,2483.84,2452.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2429.99,2497.38,2456.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2414.64,2491.06,2460.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2430.89,2494.7,2464.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2424.81,2491.6,2452.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2424.29,2495.73,2456.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2429.13,2490.7,2460.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2438.14,2513.62,2464.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2431.3,2488.44,2452.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2419.17,2478.24,2456.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2413.23,2483.32,2460.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2425.23,2487.03,2464.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2426.67,2514.44,2468.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2412.14,2480.99,2453.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.7,2494.39,2457.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2430.21,2506.58,2461.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2437.61,2508.41,2465.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2431.63,2499.55,2453.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2428.71,2494.43,2457.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2413.68,2510.78,2461.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2443.13,2512.85,2465.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2433.49,2517.36,2469.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2419.59,2483.92,2456.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2420.58,2493.89,2460.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2425.07,2499.34,2464.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2441.33,2510.03,2468.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2408.01,2498.3,2452.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2426.92,2494.28,2456.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2437.45,2489.58,2460.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2419.54,2510.17,2464.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2421.28,2508.7,2468.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2404.52,2484.22,2452.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2431.12,2481.52,2456.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2433.29,2480.04,2460.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2437.2,2511.93,2464.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2406.84,2496.52,2449.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2414.9,2486.63,2453.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2427.6,2488.43,2457.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2421.72,2505.2,2461.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2441.08,2506.92,2465.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2428.84,2488.52,2449.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2419.41,2479.02,2453.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2418.07,2477.53,2457.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2415.84,2496.77,2461.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2414.87,2478.77,2446.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2422.05,2483.39,2450.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2404.52,2496.56,2454.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2422.37,2491.87,2458.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2439.98,2500.69,2462.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2405.41,2480.52,2447.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2410.46,2492.98,2451.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2430.51,2493.27,2455.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2413.12,2479.35,2459.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2400.0,2492.6,2444.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2424.84,2481.43,2448.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2418.87,2490.62,2452.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2424.92,2487.86,2456.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2430.74,2497.76,2460.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3144.87,3284.87,3204.87
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3155.38,3295.38,3215.38
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3163.09,3303.09,3223.09
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3193.61,3333.61,3253.61
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3174.5,3314.5,3234.5
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3183.79,3323.79,3243.79
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3166.49,3306.49,3226.49
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3162.54,3302.54,3222.54
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3164.32,3304.32,3224.32
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3139.47,3279.47,3199.47
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3132.1,3272.1,3192.1
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3125.46,3265.46,3185.46
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3110.38,3250.38,3170.38
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3099.52,3239.52,3159.52
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3100.47,3240.47,3160.47
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3084.72,3224.72,3144.72
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3105.23,3245.23,3165.23
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3125.37,3265.37,3185.37
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3142.84,3282.84,3202.84
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3147.57,3287.57,3207.57
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3156.2,3296.2,3216.2
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3167.62,3307.62,3227.62
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3168.57,3308.57,3228.57
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3187.0,3327.0,3247.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Rice,Common,FAQ,3186.8,3326.8,3246.8
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5366.93,5586.93,5466.93
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5349.42,5569.42,5449.42
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5372.35,5592.35,5472.35
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5373.78,5593.78,5473.78
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5333.8,5553.8,5433.8
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5327.64,5547.64,5427.64
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5311.49,5531.49,5411.49
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5301.46,5521.46,5401.46
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5276.5,5496.5,5376.5
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5238.96,5458.96,5338.96
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5252.62,5472.62,5352.62
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5226.2,5446.2,5326.2
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5226.19,5446.19,5326.19
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5238.78,5458.78,5338.78
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5202.18,5422.18,5302.18
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5251.41,5471.41,5351.41
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5234.83,5454.83,5334.83
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5257.84,5477.84,5357.84
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5302.33,5522.33,5402.33
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5320.85,5540.85,5420.85
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5308.97,5528.97,5408.97
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5322.96,5542.96,5422.96
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5330.28,5550.28,5430.28
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5351.77,5571.77,5451.77
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Mustard,Yellow,FAQ,5396.06,5616.06,5496.06
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1412.23,1502.23,1452.23
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1417.54,1507.54,1457.54
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1444.28,1534.28,1484.28
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1440.58,1530.58,1480.58
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1458.91,1548.91,1498.91
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1463.85,1553.85,1503.85
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1426.86,1516.86,1466.86
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1437.2,1527.2,1477.2
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1426.11,1516.11,1466.11
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1399.03,1489.03,1439.03
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1365.55,1455.55,1405.55
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1373.72,1463.72,1413.72
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1348.49,1438.49,1388.49
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1353.17,1443.17,1393.17
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1404.42,1494.42,1444.42
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1380.82,1470.82,1420.82
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1406.19,1496.19,1446.19
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1431.66,1521.66,1471.66
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1450.77,1540.77,1490.77
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1474.26,1564.26,1514.26
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1469.0,1559.0,1509.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1469.05,1559.05,1509.05
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1448.51,1538.51,1488.51
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1424.68,1514.68,1464.68
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,Desi,FAQ,1384.59,1474.59,1424.59
+2026-07-02,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2022.95,2202.95,2102.95
+2026-07-02,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2858.12,3128.12,2978.12
+2026-07-03,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2039.42,2219.42,2119.42
+2026-07-03,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2860.43,3130.43,2980.43
+2026-07-04,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2126.71,2306.71,2206.71
+2026-07-04,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2867.3,3137.3,2987.3
+2026-07-06,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2131.36,2311.36,2211.36
+2026-07-06,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2755.63,3025.63,2875.63
+2026-07-07,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2129.17,2309.17,2209.17
+2026-07-07,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2720.45,2990.45,2840.45
+2026-07-08,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2144.64,2324.64,2224.64
+2026-07-08,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2685.89,2955.89,2805.89
+2026-07-09,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2135.96,2315.96,2215.96
+2026-07-09,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2600.34,2870.34,2720.34
+2026-07-10,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2142.43,2322.43,2222.43
+2026-07-10,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2554.08,2824.08,2674.08
+2026-07-11,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2126.77,2306.77,2206.77
+2026-07-11,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2420.04,2690.04,2540.04
+2026-07-13,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2065.07,2245.07,2145.07
+2026-07-13,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2477.34,2747.34,2597.34
+2026-07-14,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2033.41,2213.41,2113.41
+2026-07-14,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2451.04,2721.04,2571.04
+2026-07-15,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1968.49,2148.49,2048.49
+2026-07-15,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2526.77,2796.77,2646.77
+2026-07-16,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1979.37,2159.37,2059.37
+2026-07-16,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2521.41,2791.41,2641.41
+2026-07-17,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1989.29,2169.29,2069.29
+2026-07-17,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2591.93,2861.93,2711.93
+2026-07-18,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1946.39,2126.39,2026.39
+2026-07-18,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2677.76,2947.76,2797.76
+2026-07-20,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1923.13,2103.13,2003.13
+2026-07-20,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2675.16,2945.16,2795.16
+2026-07-21,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1897.86,2077.86,1977.86
+2026-07-21,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2782.98,3052.98,2902.98
+2026-07-22,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1914.97,2094.97,1994.97
+2026-07-22,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2926.73,3196.73,3046.73
+2026-07-23,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1941.42,2121.42,2021.42
+2026-07-23,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2910.74,3180.74,3030.74
+2026-07-24,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1899.92,2079.92,1979.92
+2026-07-24,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2886.18,3156.18,3006.18
+2026-07-25,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1950.55,2130.55,2030.55
+2026-07-25,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2822.85,3092.85,2942.85
+2026-07-26,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,1992.9,2172.9,2072.9
+2026-07-26,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2861.0,3131.0,2981.0
+2026-07-27,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2026.9,2206.9,2106.9
+2026-07-27,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2807.1,3077.1,2927.1
+2026-07-28,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2081.09,2261.09,2161.09
+2026-07-28,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2705.91,2975.91,2825.91
+2026-07-29,Maharashtra,Nashik,Lasalgaon APMC,Onion,Red,FAQ,2124.26,2304.26,2204.26
+2026-07-29,Maharashtra,Nashik,Lasalgaon APMC,Tomato,Hybrid,FAQ,2625.15,2895.15,2745.15
+2026-07-02,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4606.67,4806.67,4696.67
+2026-07-02,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2509.59,2609.59,2549.59
+2026-07-03,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4624.44,4824.44,4714.44
+2026-07-03,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2497.39,2597.39,2537.39
+2026-07-04,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4666.63,4866.63,4756.63
+2026-07-04,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2522.47,2622.47,2562.47
+2026-07-06,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4675.47,4875.47,4765.47
+2026-07-06,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2505.68,2605.68,2545.68
+2026-07-07,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4676.0,4876.0,4766.0
+2026-07-07,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2504.58,2604.58,2544.58
+2026-07-08,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4699.45,4899.45,4789.45
+2026-07-08,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2494.75,2594.75,2534.75
+2026-07-09,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4685.74,4885.74,4775.74
+2026-07-09,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2470.45,2570.45,2510.45
+2026-07-10,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4693.16,4893.16,4783.16
+2026-07-10,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2496.36,2596.36,2536.36
+2026-07-11,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4688.2,4888.2,4778.2
+2026-07-11,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2466.78,2566.78,2506.78
+2026-07-13,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4663.82,4863.82,4753.82
+2026-07-13,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2460.39,2560.39,2500.39
+2026-07-14,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4629.84,4829.84,4719.84
+2026-07-14,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2479.59,2579.59,2519.59
+2026-07-15,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4645.06,4845.06,4735.06
+2026-07-15,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2466.05,2566.05,2506.05
+2026-07-16,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4588.9,4788.9,4678.9
+2026-07-16,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2462.23,2562.23,2502.23
+2026-07-17,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4611.28,4811.28,4701.28
+2026-07-17,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2464.32,2564.32,2504.32
+2026-07-18,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4564.46,4764.46,4654.46
+2026-07-18,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2441.48,2541.48,2481.48
+2026-07-20,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4580.57,4780.57,4670.57
+2026-07-20,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2455.46,2555.46,2495.46
+2026-07-21,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4541.21,4741.21,4631.21
+2026-07-21,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2456.1,2556.1,2496.1
+2026-07-22,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4560.3,4760.3,4650.3
+2026-07-22,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2453.45,2553.45,2493.45
+2026-07-23,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4534.86,4734.86,4624.86
+2026-07-23,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2460.62,2560.62,2500.62
+2026-07-24,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4536.25,4736.25,4626.25
+2026-07-24,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2455.14,2555.14,2495.14
+2026-07-25,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4529.77,4729.77,4619.77
+2026-07-25,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2445.32,2545.32,2485.32
+2026-07-26,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4517.28,4717.28,4607.28
+2026-07-26,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2486.1,2586.1,2526.1
+2026-07-27,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4540.84,4740.84,4630.84
+2026-07-27,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2457.06,2557.06,2497.06
+2026-07-28,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4587.05,4787.05,4677.05
+2026-07-28,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2491.03,2591.03,2531.03
+2026-07-29,Madhya Pradesh,Indore,Indore APMC,Soybean,Yellow,FAQ,4566.56,4766.56,4656.56
+2026-07-29,Madhya Pradesh,Indore,Indore APMC,Wheat,Lokwan,FAQ,2482.89,2582.89,2522.89
+2026-07-02,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2443.46,2523.46,2478.46
+2026-07-02,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2346.92,2436.92,2386.92
+2026-07-03,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2445.29,2525.29,2480.29
+2026-07-03,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2340.07,2430.07,2380.07
+2026-07-04,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2453.53,2533.53,2488.53
+2026-07-04,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2349.17,2439.17,2389.17
+2026-07-06,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2460.71,2540.71,2495.71
+2026-07-06,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2338.5,2428.5,2378.5
+2026-07-07,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2467.12,2547.12,2502.12
+2026-07-07,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2324.64,2414.64,2364.64
+2026-07-08,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2464.16,2544.16,2499.16
+2026-07-08,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2307.09,2397.09,2347.09
+2026-07-09,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2467.32,2547.32,2502.32
+2026-07-09,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2304.12,2394.12,2344.12
+2026-07-10,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2459.57,2539.57,2494.57
+2026-07-10,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2285.49,2375.49,2325.49
+2026-07-11,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2474.6,2554.6,2509.6
+2026-07-11,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2275.61,2365.61,2315.61
+2026-07-13,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2465.31,2545.31,2500.31
+2026-07-13,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2262.06,2352.06,2302.06
+2026-07-14,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2468.79,2548.79,2503.79
+2026-07-14,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2285.13,2375.13,2325.13
+2026-07-15,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2456.34,2536.34,2491.34
+2026-07-15,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2271.26,2361.26,2311.26
+2026-07-16,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2451.79,2531.79,2486.79
+2026-07-16,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2270.28,2360.28,2310.28
+2026-07-17,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2437.32,2517.32,2472.32
+2026-07-17,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2285.02,2375.02,2325.02
+2026-07-18,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2431.14,2511.14,2466.14
+2026-07-18,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2288.03,2378.03,2328.03
+2026-07-20,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2439.62,2519.62,2474.62
+2026-07-20,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2281.5,2371.5,2321.5
+2026-07-21,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2425.06,2505.06,2460.06
+2026-07-21,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2304.52,2394.52,2344.52
+2026-07-22,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2407.53,2487.53,2442.53
+2026-07-22,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2310.82,2400.82,2350.82
+2026-07-23,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2421.06,2501.06,2456.06
+2026-07-23,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2313.78,2403.78,2353.78
+2026-07-24,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2427.02,2507.02,2462.02
+2026-07-24,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2352.95,2442.95,2392.95
+2026-07-25,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2431.39,2511.39,2466.39
+2026-07-25,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2364.55,2454.55,2404.55
+2026-07-26,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2421.48,2501.48,2456.48
+2026-07-26,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2360.32,2450.32,2400.32
+2026-07-27,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2429.75,2509.75,2464.75
+2026-07-27,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2337.66,2427.66,2377.66
+2026-07-28,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2425.67,2505.67,2460.67
+2026-07-28,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2344.34,2434.34,2384.34
+2026-07-29,Punjab,Ludhiana,Khanna APMC,Wheat,PBW-502,FAQ,2425.56,2505.56,2460.56
+2026-07-29,Punjab,Ludhiana,Khanna APMC,Paddy,PR-126,FAQ,2343.36,2433.36,2383.36
+2026-07-02,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6050.63,6280.63,6150.63
+2026-07-02,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7232.21,7552.21,7382.21
+2026-07-03,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6085.55,6315.55,6185.55
+2026-07-03,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7191.96,7511.96,7341.96
+2026-07-04,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6116.83,6346.83,6216.83
+2026-07-04,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7132.15,7452.15,7282.15
+2026-07-06,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6106.34,6336.34,6206.34
+2026-07-06,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7122.12,7442.12,7272.12
+2026-07-07,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6130.78,6360.78,6230.78
+2026-07-07,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7148.49,7468.49,7298.49
+2026-07-08,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6164.61,6394.61,6264.61
+2026-07-08,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7089.0,7409.0,7239.0
+2026-07-09,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6126.88,6356.88,6226.88
+2026-07-09,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7055.91,7375.91,7205.91
+2026-07-10,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6111.29,6341.29,6211.29
+2026-07-10,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7058.6,7378.6,7208.6
+2026-07-11,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6080.08,6310.08,6180.08
+2026-07-11,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7030.95,7350.95,7180.95
+2026-07-13,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6049.93,6279.93,6149.93
+2026-07-13,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7038.01,7358.01,7188.01
+2026-07-14,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6037.44,6267.44,6137.44
+2026-07-14,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6969.01,7289.01,7119.01
+2026-07-15,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6033.35,6263.35,6133.35
+2026-07-15,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6921.84,7241.84,7071.84
+2026-07-16,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,5979.27,6209.27,6079.27
+2026-07-16,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6990.95,7310.95,7140.95
+2026-07-17,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,5991.24,6221.24,6091.24
+2026-07-17,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6963.64,7283.64,7113.64
+2026-07-18,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,5959.36,6189.36,6059.36
+2026-07-18,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6965.98,7285.98,7115.98
+2026-07-20,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,5978.54,6208.54,6078.54
+2026-07-20,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6969.5,7289.5,7119.5
+2026-07-21,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,5956.29,6186.29,6056.29
+2026-07-21,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6977.6,7297.6,7127.6
+2026-07-22,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,5979.6,6209.6,6079.6
+2026-07-22,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6929.24,7249.24,7079.24
+2026-07-23,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6024.68,6254.68,6124.68
+2026-07-23,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6976.3,7296.3,7126.3
+2026-07-24,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6080.36,6310.36,6180.36
+2026-07-24,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6992.86,7312.86,7142.86
+2026-07-25,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6090.17,6320.17,6190.17
+2026-07-25,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,6995.39,7315.39,7145.39
+2026-07-26,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6084.26,6314.26,6184.26
+2026-07-26,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7035.81,7355.81,7185.81
+2026-07-27,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6139.86,6369.86,6239.86
+2026-07-27,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7134.81,7454.81,7284.81
+2026-07-28,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6117.13,6347.13,6217.13
+2026-07-28,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7138.37,7458.37,7288.37
+2026-07-29,Gujarat,Rajkot,Rajkot APMC,Groundnut,Bold,FAQ,6133.29,6363.29,6233.29
+2026-07-29,Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,FAQ,7149.78,7469.78,7299.78
+2026-07-02,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2477.96,2737.96,2597.96
+2026-07-02,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3387.65,3497.65,3437.65
+2026-07-03,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2598.55,2858.55,2718.55
+2026-07-03,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3379.78,3489.78,3429.78
+2026-07-04,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2638.25,2898.25,2758.25
+2026-07-04,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3382.23,3492.23,3432.23
+2026-07-06,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2692.58,2952.58,2812.58
+2026-07-06,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3359.8,3469.8,3409.8
+2026-07-07,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2663.85,2923.85,2783.85
+2026-07-07,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3365.48,3475.48,3415.48
+2026-07-08,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2608.42,2868.42,2728.42
+2026-07-08,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3355.05,3465.05,3405.05
+2026-07-09,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2707.45,2967.45,2827.45
+2026-07-09,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3365.77,3475.77,3415.77
+2026-07-10,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2604.98,2864.98,2724.98
+2026-07-10,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3365.36,3475.36,3415.36
+2026-07-11,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2580.22,2840.22,2700.22
+2026-07-11,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3339.53,3449.53,3389.53
+2026-07-13,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2538.85,2798.85,2658.85
+2026-07-13,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3355.44,3465.44,3405.44
+2026-07-14,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2442.5,2702.5,2562.5
+2026-07-14,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3342.82,3452.82,3392.82
+2026-07-15,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2412.77,2672.77,2532.77
+2026-07-15,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3332.66,3442.66,3382.66
+2026-07-16,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2322.01,2582.01,2442.01
+2026-07-16,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3310.44,3420.44,3360.44
+2026-07-17,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2311.11,2571.11,2431.11
+2026-07-17,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3323.14,3433.14,3373.14
+2026-07-18,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2355.0,2615.0,2475.0
+2026-07-18,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3315.14,3425.14,3365.14
+2026-07-20,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2431.46,2691.46,2551.46
+2026-07-20,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3330.72,3440.72,3380.72
+2026-07-21,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2366.72,2626.72,2486.72
+2026-07-21,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3293.56,3403.56,3343.56
+2026-07-22,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2475.83,2735.83,2595.83
+2026-07-22,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3320.57,3430.57,3370.57
+2026-07-23,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2576.41,2836.41,2696.41
+2026-07-23,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3315.91,3425.91,3365.91
+2026-07-24,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2541.93,2801.93,2661.93
+2026-07-24,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3341.24,3451.24,3391.24
+2026-07-25,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2641.95,2901.95,2761.95
+2026-07-25,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3330.7,3440.7,3380.7
+2026-07-26,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2699.57,2959.57,2819.57
+2026-07-26,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3329.52,3439.52,3379.52
+2026-07-27,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2749.19,3009.19,2869.19
+2026-07-27,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3351.94,3461.94,3401.94
+2026-07-28,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2650.36,2910.36,2770.36
+2026-07-28,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3320.21,3430.21,3370.21
+2026-07-29,Karnataka,Bangalore Urban,Bangalore APMC,Tomato,Local,Medium,2642.45,2902.45,2762.45
+2026-07-29,Karnataka,Bangalore Urban,Bangalore APMC,Ragi,Fine,FAQ,3356.5,3466.5,3406.5

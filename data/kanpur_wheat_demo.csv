@@ -1,0 +1,118 @@
+date,state,district,market,commodity,variety,grade,min_price,max_price,modal_price
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2396.51,2469.12,2432.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2415.15,2461.15,2436.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2399.44,2485.02,2440.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2414.79,2490.81,2444.0
+2026-07-02,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2406.35,2473.7,2448.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2397.37,2464.56,2434.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2412.54,2481.57,2438.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2393.04,2468.97,2442.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2423.49,2484.11,2446.0
+2026-07-03,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2408.13,2478.29,2450.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2396.44,2472.54,2437.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2419.55,2465.14,2441.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2419.39,2494.83,2445.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2413.38,2486.36,2449.0
+2026-07-04,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2410.96,2489.26,2453.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2390.61,2482.24,2438.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.91,2472.72,2442.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2397.41,2476.31,2446.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2404.05,2494.91,2450.0
+2026-07-06,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2417.86,2501.67,2454.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2417.09,2463.09,2440.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2402.95,2490.71,2444.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2423.21,2476.27,2448.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2411.83,2476.93,2452.0
+2026-07-07,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2414.96,2490.63,2456.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2401.58,2477.65,2442.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2424.7,2472.72,2446.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2412.74,2473.61,2450.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2419.0,2478.14,2454.0
+2026-07-08,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2436.42,2483.35,2458.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2410.73,2490.33,2444.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2399.52,2482.35,2448.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2418.17,2491.12,2452.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2426.26,2479.53,2456.0
+2026-07-09,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2438.47,2499.13,2460.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2398.63,2483.11,2443.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2407.45,2479.74,2447.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2411.3,2477.27,2451.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2415.2,2490.89,2455.0
+2026-07-10,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2416.54,2481.81,2459.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2401.46,2485.62,2445.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2408.15,2483.91,2449.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2403.74,2479.11,2453.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2428.03,2483.83,2457.0
+2026-07-11,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2439.55,2508.12,2461.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2423.6,2484.22,2446.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2411.07,2481.34,2450.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2433.6,2499.27,2454.0
+2026-07-13,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2426.45,2494.55,2458.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2404.68,2486.26,2446.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.16,2480.27,2450.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2421.63,2481.19,2454.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2408.93,2486.66,2458.0
+2026-07-14,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2437.58,2485.88,2462.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2400.68,2479.54,2449.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2410.99,2500.42,2453.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2415.97,2488.66,2457.0
+2026-07-15,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2412.73,2503.09,2461.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2420.85,2492.71,2448.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.18,2483.84,2452.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2429.99,2497.38,2456.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2414.64,2491.06,2460.0
+2026-07-16,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2430.89,2494.7,2464.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2424.81,2491.6,2452.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2424.29,2495.73,2456.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2429.13,2490.7,2460.0
+2026-07-17,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2438.14,2513.62,2464.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2431.3,2488.44,2452.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2419.17,2478.24,2456.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2413.23,2483.32,2460.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2425.23,2487.03,2464.0
+2026-07-18,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2426.67,2514.44,2468.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2412.14,2480.99,2453.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2409.7,2494.39,2457.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2430.21,2506.58,2461.0
+2026-07-20,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2437.61,2508.41,2465.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2431.63,2499.55,2453.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2428.71,2494.43,2457.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2413.68,2510.78,2461.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2443.13,2512.85,2465.0
+2026-07-21,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2433.49,2517.36,2469.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2419.59,2483.92,2456.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2420.58,2493.89,2460.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2425.07,2499.34,2464.0
+2026-07-22,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2441.33,2510.03,2468.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2408.01,2498.3,2452.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2426.92,2494.28,2456.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2437.45,2489.58,2460.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2419.54,2510.17,2464.0
+2026-07-23,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2421.28,2508.7,2468.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2404.52,2484.22,2452.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2431.12,2481.52,2456.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2433.29,2480.04,2460.0
+2026-07-24,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2437.2,2511.93,2464.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2406.84,2496.52,2449.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2414.9,2486.63,2453.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2427.6,2488.43,2457.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2421.72,2505.2,2461.0
+2026-07-25,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2441.08,2506.92,2465.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2428.84,2488.52,2449.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2419.41,2479.02,2453.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2418.07,2477.53,2457.0
+2026-07-26,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2415.84,2496.77,2461.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2414.87,2478.77,2446.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2422.05,2483.39,2450.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2404.52,2496.56,2454.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2422.37,2491.87,2458.0
+2026-07-27,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2439.98,2500.69,2462.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2405.41,2480.52,2447.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2410.46,2492.98,2451.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2430.51,2493.27,2455.0
+2026-07-28,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2413.12,2479.35,2459.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Dara,FAQ,2400.0,2492.6,2444.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Deshi,Medium,2424.84,2481.43,2448.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Kalyan,Grade I,2418.87,2490.62,2452.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Sharbati,FAQ,2424.92,2487.86,2456.0
+2026-07-29,Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Wheat,Local,Medium,2430.74,2497.76,2460.0
