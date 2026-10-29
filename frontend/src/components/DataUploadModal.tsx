@@ -21,6 +21,13 @@ export const DataUploadModal: React.FC<DataUploadModalProps> = ({
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
+  const handleClose = () => {
+    setFile(null);
+    setUploadResult(null);
+    setErrorMessage(null);
+    onClose();
+  };
+
   if (!isOpen) return null;
 
   const handleDrag = (e: React.DragEvent) => {
@@ -92,7 +99,7 @@ export const DataUploadModal: React.FC<DataUploadModalProps> = ({
             </div>
           </div>
           <button
-            onClick={onClose}
+            onClick={handleClose}
             className="p-1 rounded-lg text-slate-400 hover:text-slate-600 hover:bg-slate-100 transition-colors"
           >
             <X className="w-5 h-5" />
@@ -236,7 +243,7 @@ export const DataUploadModal: React.FC<DataUploadModalProps> = ({
         <div className="flex items-center justify-end gap-3 p-5 border-t border-slate-100 bg-slate-50 rounded-b-2xl">
           <button
             type="button"
-            onClick={onClose}
+            onClick={handleClose}
             className="px-4 py-2 text-xs sm:text-sm font-medium text-slate-600 hover:text-slate-900 rounded-lg transition-colors"
           >
             {uploadResult ? 'Done' : 'Cancel'}

@@ -288,6 +288,8 @@ def export_forecast_csv(
             media_type="text/csv",
             headers={"Content-Disposition": f"attachment; filename={filename}"}
         )
+    except ValueError as ve:
+        raise HTTPException(status_code=404, detail=str(ve))
     except Exception as e:
         logger.error(f"Error generating CSV export: {e}", exc_info=True)
         raise HTTPException(status_code=500, detail=str(e))

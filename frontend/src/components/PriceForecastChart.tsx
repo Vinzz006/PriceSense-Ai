@@ -11,7 +11,7 @@ import {
   Legend,
   ReferenceLine,
 } from 'recharts';
-import { Layers, Info } from 'lucide-react';
+import { Layers, Info, RefreshCw } from 'lucide-react';
 import type { HistoricalSeries, ForecastResponse } from '../types';
 
 interface PriceForecastChartProps {
@@ -19,6 +19,7 @@ interface PriceForecastChartProps {
   forecast: ForecastResponse | null;
   commodityName: string;
   marketName: string;
+  isLoading?: boolean;
 }
 
 export const PriceForecastChart: React.FC<PriceForecastChartProps> = ({
@@ -26,9 +27,22 @@ export const PriceForecastChart: React.FC<PriceForecastChartProps> = ({
   forecast,
   commodityName,
   marketName,
+  isLoading,
 }) => {
   const [showUncertainty, setShowUncertainty] = useState(true);
   const [showGrid, setShowGrid] = useState(true);
+
+  if (isLoading) {
+    return (
+      <div className="bg-white rounded-xl border border-slate-200 p-8 shadow-xs text-center flex flex-col items-center justify-center min-h-[400px]">
+        <RefreshCw className="w-10 h-10 text-emerald-600 animate-spin mb-3" />
+        <h3 className="text-base font-semibold text-slate-800">Retrieving Market Series...</h3>
+        <p className="text-xs text-slate-500 max-w-sm mt-1">
+          Aggregating daily records and computing time-series continuity.
+        </p>
+      </div>
+    );
+  }
 
   if (!historical && !forecast) {
     return (

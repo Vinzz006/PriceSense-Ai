@@ -25,14 +25,20 @@ export const CommodityComparison: React.FC<CommodityComparisonProps> = ({ summar
   const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
+    if (summaries.length > 1 && selectedA === selectedB) {
+      setSelectedB(1);
+    }
+  }, [summaries]);
+
+  useEffect(() => {
     if (summaries.length >= 2) {
       loadComparison();
     }
-  }, [selectedA, selectedB]);
+  }, [selectedA, selectedB, summaries]);
 
   const loadComparison = async () => {
-    const itemA = summaries[selectedA];
-    const itemB = summaries[selectedB];
+    const itemA = summaries[selectedA] || summaries[0];
+    const itemB = summaries[selectedB] || (summaries.length > 1 ? summaries[1] : summaries[0]);
     if (!itemA || !itemB) return;
 
     setLoading(true);

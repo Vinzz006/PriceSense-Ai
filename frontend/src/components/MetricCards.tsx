@@ -98,7 +98,7 @@ export const MetricCards: React.FC<MetricCardsProps> = ({ historical, forecast }
                 {changePct.toFixed(2)}%
               </span>
               <span className="text-xs text-slate-500">
-                ({isUp ? '+' : ''}₹{changeAbs?.toFixed(2)}/q)
+                ({isUp ? '+' : '-'}₹{Math.abs(changeAbs || 0).toFixed(2)}/q)
               </span>
             </>
           ) : (

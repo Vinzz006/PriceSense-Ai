@@ -65,16 +65,17 @@ export const FilterControls: React.FC<FilterControlsProps> = ({
 }) => {
   // Cascading options
   const availableDistricts = selectedState ? filters.districts_by_state[selectedState] || [] : [];
-  const availableMarkets = selectedDistrict
+  const rawMarkets = selectedDistrict
     ? filters.markets_by_district[selectedDistrict] || []
     : selectedState
     ? Object.entries(filters.markets_by_district)
         .filter(([dist]) => availableDistricts.includes(dist))
         .flatMap(([, mkts]) => mkts)
     : [];
+  const availableMarkets = Array.from(new Set(rawMarkets)).sort();
 
   const availableCommodities = selectedMarket
-    ? filters.commodities_by_market[selectedMarket] || []
+    ? Array.from(new Set(filters.commodities_by_market[selectedMarket] || [])).sort()
     : [];
 
   const availableVarieties = selectedCommodity
@@ -199,8 +200,14 @@ export const FilterControls: React.FC<FilterControlsProps> = ({
           <select
             value={selectedMarket}
             onChange={(e) => {
-              setSelectedMarket(e.target.value);
-              setSelectedCommodity('');
+              const newMkt = e.target.value;
+              setSelectedMarket(newMkt);
+              const comms = filters.commodities_by_market[newMkt] || [];
+              if (comms.length > 0 && (!selectedCommodity || !comms.includes(selectedCommodity))) {
+                setSelectedCommodity(comms[0]);
+              } else if (comms.length === 0) {
+                setSelectedCommodity('');
+              }
             }}
             disabled={!selectedState}
             className="w-full text-sm rounded-lg border border-slate-300 bg-white px-3 py-2 text-slate-800 focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-600 shadow-xs disabled:bg-slate-50 disabled:text-slate-400"

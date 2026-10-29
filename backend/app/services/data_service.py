@@ -100,18 +100,34 @@ class DataService:
             
         if "district" not in df.columns:
             df["district"] = df["market"]
+        else:
+            df["district"] = df["district"].fillna(df["market"])
+
         if "variety" not in df.columns:
             df["variety"] = "General"
+        else:
+            df["variety"] = df["variety"].fillna("General")
+
         if "grade" not in df.columns:
             df["grade"] = "FAQ"
+        else:
+            df["grade"] = df["grade"].fillna("FAQ")
+
         if "min_price" not in df.columns:
             df["min_price"] = np.nan
         if "max_price" not in df.columns:
             df["max_price"] = np.nan
 
-        # Clean string columns: strip whitespace and standardize case
+        # Clean string columns: strip whitespace and sanitize missing indicators
         for col in ["state", "district", "market", "commodity", "variety", "grade"]:
-            df[col] = df[col].astype(str).str.strip()
+            df[col] = df[col].fillna("").astype(str).str.strip()
+            if col == "district":
+                bad_mask = df[col].str.lower().isin(["nan", "none", ""])
+                df.loc[bad_mask, col] = df.loc[bad_mask, "market"]
+            elif col == "variety":
+                df[col] = df[col].replace({"nan": "General", "None": "General", "": "General"})
+            elif col == "grade":
+                df[col] = df[col].replace({"nan": "FAQ", "None": "FAQ", "": "FAQ"})
 
         # Parse dates safely
         # Handle formats like DD/MM/YYYY, YYYY-MM-DD, etc.

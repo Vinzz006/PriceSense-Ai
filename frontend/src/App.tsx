@@ -68,15 +68,6 @@ export const App: React.FC = () => {
       if (statusRes) setModelStatus(statusRes);
       if (filterRes) setFilters(filterRes);
       if (summaryRes) setSummaries(summaryRes);
-
-      // Trigger initial load for Kanpur Wheat
-      loadHistoricalData(
-        'Uttar Pradesh',
-        'Kanpur(Grain) APMC',
-        'Wheat',
-        'Kanpur',
-        true
-      );
     } catch (err: any) {
       console.error('Bootstrap error:', err);
       setErrorMessage('Could not connect to backend. Please ensure the server is running.');
@@ -187,7 +178,6 @@ export const App: React.FC = () => {
     setSelectedMarket(preset.market);
     setSelectedCommodity(preset.commodity);
     setInterpolateMissing(preset.interpolate);
-    loadHistoricalData(preset.state, preset.market, preset.commodity, preset.district, preset.interpolate);
   };
 
   const handleUploadSuccess = async (_res: UploadResponse) => {
@@ -282,6 +272,7 @@ export const App: React.FC = () => {
               forecast={forecast}
               commodityName={selectedCommodity}
               marketName={selectedMarket}
+              isLoading={isLoadingHistorical}
             />
 
             {/* Preprocessing and Regulatory Transparency Banner */}
