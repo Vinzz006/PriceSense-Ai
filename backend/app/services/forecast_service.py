@@ -55,6 +55,11 @@ class ForecastService:
                     settings.MODEL_ID,
                     device_map=self.device
                 )
+                # Ensure model is frozen in evaluation mode
+                if hasattr(self.pipeline, 'model'):
+                    self.pipeline.model.eval()
+                    for param in self.pipeline.model.parameters():
+                        param.requires_grad = False
                 self.model_status = "READY"
                 self.loaded_at = datetime.now(timezone.utc).isoformat()
                 logger.info(f"Successfully loaded {settings.MODEL_ID} into memory on {self.device}")
@@ -125,8 +130,8 @@ class ForecastService:
         # Build PyTorch context tensor
         context = torch.tensor(arr, dtype=torch.float32)
 
-        # Execute model inference with thread lock
-        with self._lock:
+        # Execute model inference with thread lock and disabled autograd
+        with self._lock, torch.inference_mode():
             try:
                 # The model API uses inputs=context and quantile_levels
                 res = self.pipeline.predict_quantiles(
