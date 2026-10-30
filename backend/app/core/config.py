@@ -58,6 +58,9 @@ class Settings(BaseSettings):
     # Audio Cache Directory
     AUDIO_DIR: Path = BASE_DIR / "app" / "data" / "audio_cache"
     
-    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
+    model_config = SettingsConfigDict(
+        env_file=[str(ROOT_DIR / ".env"), str(BASE_DIR / ".env"), ".env"],
+        extra="ignore"
+    )
 
 settings = Settings()

@@ -143,7 +143,7 @@ export const ChatSettingsModal: React.FC<ChatSettingsModalProps> = ({
                     : 'border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-800/60'
                 }`}
               >
-                Female Voice (Rachel)
+                Female Voice (Sarah)
               </button>
               <button
                 onClick={() => onSelectVoiceGender('male')}
@@ -153,7 +153,7 @@ export const ChatSettingsModal: React.FC<ChatSettingsModalProps> = ({
                     : 'border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-800/60'
                 }`}
               >
-                Male Voice (Adam)
+                Male Voice (George)
               </button>
             </div>
           </div>
@@ -253,3 +253,4 @@ export const ChatSettingsModal: React.FC<ChatSettingsModalProps> = ({
     </div>
   );
 };
+

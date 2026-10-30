@@ -117,3 +117,4 @@ def test_chat_context_retention():
     assert data2["session_id"] == sid
     # Context should have retained Wheat / Kanpur
     assert "Wheat" in data2["response"] or "forecast" in data2["response"].lower()
+

@@ -84,3 +84,4 @@ export const SuggestedQuestions: React.FC<SuggestedQuestionsProps> = ({ language
     </div>
   );
 };
+

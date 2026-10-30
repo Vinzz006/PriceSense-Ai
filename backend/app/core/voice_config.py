@@ -28,13 +28,13 @@ SUPPORTED_LANGUAGES = [
 
 DEFAULT_VOICE_MAP: Dict[str, Dict[str, str]] = {
     "female": {
-        "voice_id": "21m00Tcm4TlvDq8ikWAM",  # Rachel
-        "name": "Rachel (Conversational & Warm)",
+        "voice_id": "EXAVITQu4vr4xnSDxMaL",  # Sarah (Premade)
+        "name": "Sarah (Clear & Reassuring)",
         "gender": "female"
     },
     "male": {
-        "voice_id": "pNInz6obpgDQGcFmaJgB",  # Adam
-        "name": "Adam (Clear & Professional)",
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb",  # George (Premade)
+        "name": "George (Warm & Professional)",
         "gender": "male"
     }
 }
@@ -43,13 +43,13 @@ DEFAULT_VOICE_MAP: Dict[str, Dict[str, str]] = {
 LANGUAGE_VOICES: Dict[str, Dict[str, Dict[str, str]]] = {
     lang["code"]: {
         "female": {
-            "voice_id": "21m00Tcm4TlvDq8ikWAM",
-            "name": f"Rachel ({lang['name']} Female)",
+            "voice_id": "EXAVITQu4vr4xnSDxMaL",
+            "name": f"Sarah ({lang['name']} Female)",
             "gender": "female"
         },
         "male": {
-            "voice_id": "pNInz6obpgDQGcFmaJgB",
-            "name": f"Adam ({lang['name']} Male)",
+            "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+            "name": f"George ({lang['name']} Male)",
             "gender": "male"
         }
     }
@@ -67,3 +67,4 @@ def resolve_voice_id(language: str = "en", gender: str = "female") -> Dict[str, 
     if g in lang_dict:
         return lang_dict[g]
     return DEFAULT_VOICE_MAP.get(g, DEFAULT_VOICE_MAP["female"])
+

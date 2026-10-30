@@ -337,3 +337,4 @@ export const ChatbotWidget: React.FC<ChatbotWidgetProps> = ({ currentContext }) 
     </>
   );
 };
+
