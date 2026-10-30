@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.core.config import settings
 from app.api.endpoints import router as api_router
+from app.api.chat import router as chat_router
 from app.services.forecast_service import forecast_service
 
 # Configure logging
@@ -41,6 +42,7 @@ app.add_middleware(
 
 # Include API Router
 app.include_router(api_router, prefix=settings.API_PREFIX)
+app.include_router(chat_router, prefix=f"{settings.API_PREFIX}/chat", tags=["chat"])
 
 @app.exception_handler(Exception)
 async def global_exception_handler(request: Request, exc: Exception):

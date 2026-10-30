@@ -124,3 +124,77 @@ class ForecastHistoryItem(BaseModel):
     latest_price: float
     forecast_median: float
     change_pct: float
+
+# Chat and Voice Assistant Schemas
+
+class ChatMessage(BaseModel):
+    role: str  # 'user', 'assistant', 'system'
+    content: str
+    timestamp: str
+    language: Optional[str] = "en"
+    audio_url: Optional[str] = None
+    data_context: Optional[Dict[str, Any]] = None
+    tools_called: List[str] = []
+
+class ChatRequest(BaseModel):
+    message: str
+    session_id: Optional[str] = None
+    language: str = "en"
+    voice_gender: str = "female"
+    enable_voice: bool = False
+    context: Optional[Dict[str, Any]] = None
+
+class ChatResponse(BaseModel):
+    response: str
+    session_id: str
+    language: str
+    detected_language: Optional[str] = None
+    audio_url: Optional[str] = None
+    data: Optional[Dict[str, Any]] = None
+    tools_called: List[str] = []
+
+class SpeechRequest(BaseModel):
+    text: str
+    language: str = "en"
+    voice_gender: str = "female"
+    voice_id: Optional[str] = None
+
+class SpeechResponse(BaseModel):
+    audio_url: str
+    duration_seconds: Optional[float] = None
+    voice_id: str
+    language: str
+
+class LanguageItem(BaseModel):
+    code: str
+    name: str
+    native: str
+    script: str
+    sample_prompt: Optional[str] = None
+
+class LanguagesResponse(BaseModel):
+    languages: List[LanguageItem]
+    default_language: str = "en"
+
+class VoiceItem(BaseModel):
+    voice_id: str
+    name: str
+    gender: str
+    language: str
+
+class VoicesResponse(BaseModel):
+    voices: List[VoiceItem]
+
+class VoicePreviewRequest(BaseModel):
+    voice_id: Optional[str] = None
+    language: str = "en"
+    gender: str = "female"
+    text: Optional[str] = None
+
+class ChatHealthResponse(BaseModel):
+    gemini_configured: bool
+    gemini_model: str
+    elevenlabs_configured: bool
+    elevenlabs_model: str
+    audio_cache_count: int
+

@@ -6,6 +6,9 @@ import type {
   UploadResponse,
   MarketSummary,
   ForecastHistoryItem,
+  LanguageItem,
+  VoiceItem,
+  ChatHealth,
 } from '../types';
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api';
@@ -150,5 +153,88 @@ export const api = {
       interpolate_missing: String(params.interpolateMissing),
     });
     return `${API_BASE_URL}/export/forecast.csv?${query.toString()}`;
+  },
+
+  // Multilingual Voice Chat Assistant Endpoints
+  async getChatHealth(): Promise<ChatHealth> {
+    const res = await fetch(`${API_BASE_URL}/chat/health`);
+    if (!res.ok) throw new Error('Failed to get chat health');
+    return res.json();
+  },
+
+  async getChatLanguages(): Promise<{ languages: LanguageItem[]; default_language: string }> {
+    const res = await fetch(`${API_BASE_URL}/chat/languages`);
+    if (!res.ok) throw new Error('Failed to fetch supported languages');
+    return res.json();
+  },
+
+  async getChatVoices(): Promise<{ voices: VoiceItem[] }> {
+    const res = await fetch(`${API_BASE_URL}/chat/voices`);
+    if (!res.ok) throw new Error('Failed to fetch available voices');
+    return res.json();
+  },
+
+  async sendChatMessage(payload: {
+    message: string;
+    session_id?: string;
+    language?: string;
+    voice_gender?: string;
+    enable_voice?: boolean;
+    context?: Record<string, any>;
+  }): Promise<{
+    response: string;
+    session_id: string;
+    language: string;
+    detected_language?: string;
+    audio_url?: string | null;
+    data?: Record<string, any> | null;
+    tools_called: string[];
+  }> {
+    const res = await fetch(`${API_BASE_URL}/chat/message`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || 'Chat request failed');
+    }
+    return res.json();
+  },
+
+  async generateSpeech(payload: {
+    text: string;
+    language?: string;
+    voice_gender?: string;
+    voice_id?: string;
+  }): Promise<{ audio_url: string; voice_id: string; language: string }> {
+    const res = await fetch(`${API_BASE_URL}/chat/speech`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || 'Voice synthesis failed');
+    }
+    return res.json();
+  },
+
+  async previewVoice(payload: {
+    voice_id?: string;
+    language?: string;
+    gender?: string;
+    text?: string;
+  }): Promise<{ audio_url?: string; error?: string; message?: string }> {
+    const res = await fetch(`${API_BASE_URL}/chat/voice-preview`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || 'Voice preview failed');
+    }
+    return res.json();
   },
 };

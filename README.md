@@ -18,6 +18,13 @@
 - **Side-by-Side Commodity Comparison:** Compare price movements and spreads across commodities and markets.
 - **Market Explorer:** Browse trading volumes, average prices, and ranges across mandis.
 - **Export Capabilities:** One-click CSV export of combined historical and forecast trajectories.
+- **Multilingual AI Voice Assistant (PriceSense AI):**
+  - Conversational intelligence powered by Google Gemini API (`gemini-2.5-flash`).
+  - Native support for 11 Indian languages: English, Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Gujarati, Punjabi, and Urdu.
+  - High-fidelity voice synthesis using official ElevenLabs Text-to-Speech (`eleven_flash_v2_5`) with female and male voice profiles.
+  - Hands-free speech-to-text input via browser Web Speech API with live transcript preview.
+  - Deep grounding: Assistant directly invokes backend tools to fetch latest Agmarknet prices, compare mandis, and run real Chronos-Bolt Small forecasts.
+  - Built-in zero-latency local rule-based fallback when external API keys are omitted.
 
 ---
 
@@ -248,6 +255,14 @@ python -m pytest -v
 - ✅ `test_forecast_endpoint`: Executes real zero-shot inference with Chronos-Bolt Small and verifies output dimensions and quantile ordering (`lower_10 <= median <= upper_90`).
 - ✅ `test_csv_upload_endpoint`: Validates CSV parsing, malformed row rejection, and preview generation.
 - ✅ `test_csv_export_endpoint`: Generates RFC 4180 CSV with historical and forecast segments.
+- ✅ `test_chat_health`: Validates conversational engine and ElevenLabs configuration status.
+- ✅ `test_get_languages`: Asserts all 11 Indian languages with native scripts are registered.
+- ✅ `test_get_voices`: Checks multilingual female and male voice profiles.
+- ✅ `test_agricultural_tools`: Validates latest price lookup, dataset metrics, and market comparison.
+- ✅ `test_chat_message_english_price`: Tests English conversational query with price resolution.
+- ✅ `test_chat_message_hindi`: Tests Hindi query and native Devanagari conversational response.
+- ✅ `test_chat_message_tamil`: Tests Tamil query and native Tamil conversational response.
+- ✅ `test_chat_context_retention`: Confirms session retains commodity/mandi context across follow-up queries.
 - ✅ `test_duplicate_dates_aggregation`: Asserts daily grouping by mean modal price.
 - ✅ `test_missing_dates_detection_and_interpolation`: Verifies gap counting and linear interpolation.
 

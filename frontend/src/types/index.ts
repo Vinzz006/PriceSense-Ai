@@ -117,3 +117,39 @@ export interface ForecastHistoryItem {
   forecast_median: number;
   change_pct: number;
 }
+
+export interface ChatMessage {
+  id: string;
+  role: 'user' | 'assistant' | 'system';
+  content: string;
+  timestamp: string;
+  language?: string;
+  audio_url?: string | null;
+  data?: Record<string, any> | null;
+  tools_called?: string[];
+  isStreaming?: boolean;
+}
+
+export interface LanguageItem {
+  code: string;
+  name: string;
+  native: string;
+  script: string;
+  sample_prompt?: string;
+}
+
+export interface VoiceItem {
+  voice_id: string;
+  name: string;
+  gender: 'female' | 'male';
+  language: string;
+}
+
+export interface ChatHealth {
+  gemini_configured: boolean;
+  gemini_model: string;
+  elevenlabs_configured: boolean;
+  elevenlabs_model: string;
+  audio_cache_count: number;
+}
+

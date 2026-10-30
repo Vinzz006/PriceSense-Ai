@@ -8,6 +8,7 @@ import { DataUploadModal } from './components/DataUploadModal';
 import { MarketExplorer } from './components/MarketExplorer';
 import { CommodityComparison } from './components/CommodityComparison';
 import { AboutPage } from './components/AboutPage';
+import { ChatbotWidget } from './components/Chatbot/ChatbotWidget';
 import { api } from './services/api';
 import type {
   FilterCascading,
@@ -319,6 +320,15 @@ export const App: React.FC = () => {
         isOpen={isUploadModalOpen}
         onClose={() => setIsUploadModalOpen(false)}
         onUploadSuccess={handleUploadSuccess}
+      />
+
+      {/* Multilingual Voice AI Assistant */}
+      <ChatbotWidget
+        currentContext={{
+          state: selectedState,
+          market: selectedMarket,
+          commodity: selectedCommodity,
+        }}
       />
     </div>
   );

@@ -1,5 +1,5 @@
 from pathlib import Path
-from typing import List
+from typing import List, Optional
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 # Base directories
@@ -8,6 +8,8 @@ ROOT_DIR = BASE_DIR.parent
 DATA_DIR = ROOT_DIR / "data"
 UPLOAD_DIR = BASE_DIR / "app" / "data" / "uploads"
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+AUDIO_DIR = BASE_DIR / "app" / "data" / "audio_cache"
+AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 
 class Settings(BaseSettings):
     PROJECT_NAME: str = "AI PriceSense"
@@ -44,6 +46,17 @@ class Settings(BaseSettings):
     
     # Upload limits
     MAX_UPLOAD_SIZE_BYTES: int = 50 * 1024 * 1024  # 50 MB
+    
+    # Conversational AI (Gemini)
+    GEMINI_API_KEY: Optional[str] = None
+    GEMINI_MODEL: str = "gemini-2.5-flash"
+    
+    # Voice Synthesis (ElevenLabs)
+    ELEVENLABS_API_KEY: Optional[str] = None
+    ELEVENLABS_MODEL_ID: str = "eleven_flash_v2_5"
+    
+    # Audio Cache Directory
+    AUDIO_DIR: Path = BASE_DIR / "app" / "data" / "audio_cache"
     
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
